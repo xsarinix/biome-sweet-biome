@@ -1,0 +1,27 @@
+.hero-image {
+    background-image: url('../images/microbes-sem-transparent.jpg');
+    background-color: #020024;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+body {
+    background-color: black;
+    color: black;
+}
+
+.row {
+    padding: 10px;
+}
+
+.col {
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    min-width: 95% !important;
+}
